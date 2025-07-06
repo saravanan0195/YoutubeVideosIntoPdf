@@ -2,7 +2,7 @@
 
 **YouTube Videos into PDF** is a Python-based automation tool that converts YouTube videos—including Shorts and Playlists—into high-quality PDF documents. It extracts unique frames from videos using structural similarity metrics and overlays accurate timestamps for easy reference. Perfect for students, researchers, educators, or content archivists who want to preserve visual content offline.
 
----
+--
 
 ## 🚀 Features
 
